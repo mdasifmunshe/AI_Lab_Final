@@ -1,4 +1,5 @@
 # Python program to read a file character by character
+# Don't forget to get the 'taskSix.txt' file
 
 file = open('taskSix.txt', 'r')
 
