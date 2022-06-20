@@ -14,4 +14,3 @@ for j in range(0, len(arr)):
 
 print("\n\nThe Array is: ", arr)
 print("\nSum of all the elements of the array: " + str(summation))
-
